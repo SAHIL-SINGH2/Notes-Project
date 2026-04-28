@@ -27,3 +27,6 @@ dist-ssr
 *.env
 *.env.*
 !.env.example
+
+# Local screenshot file excluded from repo
+frontend/public/screenshot-for-readme.png
